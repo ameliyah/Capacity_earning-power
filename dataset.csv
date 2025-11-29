@@ -1,0 +1,304 @@
+applicant_name,age,gender,marital_status,occupation,job_position,job_specific_code,job_specific,education_level,tipe_pinjaman,income,expenditure,housing_situation,health_situation,address,job_tenure,language_profeciency,family_background,social_network,financial_literacy,total_pinjaman,credit_history,transportation,work_schedule,asset,asset_total,asset_range,sosial_ekonomi_status,kapasitas_usaha,company_address,jangka_waktu_kredit,debt_to_income_ratio,monthly_income,additional_income,job_tenure_years,dependents,existing_loans_count,existing_loans_total,payment_history_score,debt_to_income_ratio_num,approval_status
+Ami Rahmawati,29,P,Duda,Pilot; airline,Supervisor,10612,Industri Penggilingan Aneka Kacang (termasuk Leguminous),D4,Personal,39000000,40000000,Tidak Padat Penduduk,Kurang Sehat,"Gg. Siliwangi No. 89
+Probolinggo; MU 53314",8,2,Marketing executive,tidak aktif,baik,9000000,sedang,kereta,2,tanah,8410000000,tinggi,A1,1,"Jalan Laswi No. 70
+Kupang; NB 42015",3,baik,24565607,1291968,5,0,3,5526102,60,0.02,0
+Hafshah Prabowo,27,L,Belum Kawin,Archaeologist,Karyawan (Employee),1193,Pertanian Tanaman Bunga,D4,Personal,14000000,19000000,Padat penduduk,Kurang Sehat,"Gang R.E Martadinata No. 276
+Pariaman; JA 45647",2,1,Biomedical engineer,aktif,kurang,36000000,bermasalah,angkot,8,saham,8238000000,tinggi,A1,0,"Gg. M.H Thamrin No. 72
+Sorong; JT 72983",3,baik,8620895,2014847,3,3,0,0,94,0.0,1
+Dt. Darijan Usamah; M.Ak,23,P,Duda,Insurance account manager,Staff,72206,Penelitian Dan Pengembangan Sejarah,S3,Perusahaan,28000000,8000000,Padat penduduk,Sakit,"Gg. Ahmad Yani No. 78
+Dumai; Kepulauan Riau 85317",9,3,Programmer; multimedia,aktif,cukup baik,5000000,bagus,kereta,9,sepeda,8121000000,tinggi,A1,2,"Jl. Soekarno Hatta No. 975
+Bukittinggi; Sulawesi Selatan 79395",12,baik,18525802,2078667,0,1,3,4428924,95,0.02,1
+Cornelia Halimah,30,L,Cerai Hidup,Trade union research officer,Staff,32402,Industri Mainan Anak-anak,S1,Perusahaan,39000000,9000000,Padat penduduk,Kurang Sehat,"Jalan Jend. Sudirman No. 73
+Gorontalo; LA 66366",7,1,Tourist information centre manager,tidak aktif,kurang,37000000,bagus,kereta,5,sepeda,3033000000,rendah,A1,2,"Gang Pasteur No. 33
+Kota Administrasi Jakarta Pusat; BE 71185",12,baik,5069381,549782,4,1,0,0,61,0.0,1
+Leo Irawan,43,L,Kawin,Loss adjuster; chartered,Supervisor,55191,Penginapan Remaja (youth Hostel),SMA/SMK,Personal,36000000,5000000,Padat penduduk,Sakit,"Gg. Tubagus Ismail No. 042
+Palu; Banten 20469",2,3,Tree surgeon,aktif,baik,2000000,bagus,angkot,2,sepeda,6760000000,menengah,B,0,"Gg. Erlangga No. 42
+Solok; KR 29209",12,baik,8137119,521510,7,1,2,10672286,98,0.11,1
+dr. Hendri Putra,21,P,Cerai Hidup,Advertising account planner,Staff,46333,Perdagangan Besar Minuman Beralkohol,D3,Perusahaan,38000000,49000000,Padat penduduk,Kurang Sehat,"Jl. Erlangga No. 3
+Kota Administrasi Jakarta Selatan; Sulawesi Utara 69888",2,3,Video editor,tidak aktif,cukup baik,35000000,bermasalah,sepeda motor,10,emas,9402000000,tinggi,A1,2,"Gang Pelajar Pejuang No. 461
+Sukabumi; GO 36792",3,baik,4420650,265843,0,1,1,3675347,82,0.07,1
+Argono Waskita,51,P,Cerai Hidup,Technical brewer,Supervisor,47191,Perdagangan Eceran Berbagai Macam Barang Yang Utamanya Bukan Makanan; Minuman Atau Tembakau Di Toserba (department Store),D3,Personal,46000000,19000000,Tidak Padat Penduduk,Kurang Sehat,"Jalan Pelajar Pejuang No. 460
+Bogor; RI 94299",9,1,Ergonomist,aktif,baik,39000000,sedang,kereta,3,sepeda motor,2725000000,rendah,A1,0,"Gang HOS. Cokroaminoto No. 64
+Bandar Lampung; PB 29153",3,baik,9606510,816556,17,0,0,0,73,0.0,1
+Darmaji Sitompul; S.H.,19,L,Belum Kawin,Podiatrist,Karyawan (Employee),55112,Hotel Bintang Empat,S3,Personal,17000000,50000000,Tidak Padat Penduduk,Kurang Sehat,"Gg. Cikutra Barat No. 1
+Ambon; GO 94714",7,2,Clinical psychologist,aktif,cukup baik,6000000,bermasalah,angkot,6,emas,4049000000,menengah,A1,0,"Gg. Jayawijaya No. 752
+Pekanbaru; BT 64247",12,baik,4588059,420878,0,3,0,0,68,0.0,1
+Ika Utama,41,L,Duda,Field trials officer,Supervisor,47221,Perdagangan Eceran Minuman Beralkohol,SMA/SMK,Perusahaan,22000000,8000000,Tidak Padat Penduduk,Sakit,"Gg. Setiabudhi No. 76
+Tanjungpinang; YO 34602",8,4,IT sales professional,aktif,cukup baik,14000000,bermasalah,angkot,8,uang,331000000,tinggi,A1,1,"Jalan H.J Maemunah No. 28
+Lhokseumawe; Bengkulu 23503",6,baik,10151005,566044,7,1,0,0,96,0.0,1
+Puput Hutasoit,47,P,Cerai Mati,Air traffic controller,Direktur,59111,Aktivitas Produksi Film; Video Dan Program Televisi Oleh Pemerintah,SMA/SMK,Perusahaan,9000000,16000000,Padat penduduk,Kurang Sehat,"Jalan Joyoboyo No. 68
+Tidore Kepulauan; SU 21118",4,2,Arts administrator,aktif,baik,20000000,terbatas,mobil,9,uang,4150000000,rendah,A1,0,"Jl. Kiaracondong No. 8
+Blitar; Jambi 63436",6,baik,7672170,1027118,17,0,1,1172429,95,0.01,1
+Purwadi Halim,40,P,Kawin,Ergonomist,Supervisor,2111,Pengusahaan Hutan Jati,D4,Personal,37000000,38000000,Tidak Padat Penduduk,Kurang Sehat,"Gg. Yos Sudarso No. 501
+Tomohon; SG 40138",10,1,Best boy,aktif,cukup baik,14000000,bagus,kereta,9,saham,5465000000,rendah,A1,2,"Jl. Pacuan Kuda No. 56
+Salatiga; SG 64362",6,baik,8565231,957895,12,1,1,3043829,67,0.03,1
+R.M. Wahyu Utami; S.Pd,29,P,Duda,Commercial/residential surveyor,Wakil Direktur,25992,Industri Peralatan Dapur Dan Peralatan Meja Dari Logam,SMA/SMK,Perusahaan,40000000,14000000,Tidak Padat Penduduk,Sehat,"Gang Kapten Muslihat No. 3
+Meulaboh; Sulawesi Tenggara 55407",7,1,Engineer; drilling,aktif,kurang,47000000,bagus,sepeda,7,sepeda motor,5389000000,menengah,A1,2,"Gang Setiabudhi No. 98
+Batam; JA 80735",6,baik,14222216,3093492,5,0,1,6117777,78,0.04,1
+Dinda Laksmiwati,48,P,Belum Kawin,Electrical engineer,Wakil Direktur,31004,Industri Furnitur Dari Logam,S3,Personal,3000000,10000000,Padat penduduk,Sakit,"Jalan Asia Afrika No. 291
+Tanjungpinang; DKI Jakarta 13011",4,2,Journalist; broadcasting,aktif,cukup baik,29000000,terbatas,bus,10,tanah,1200000000,tinggi,A1,0,"Gang Jend. A. Yani No. 3
+Jayapura; GO 31515",3,baik,14308489,4032446,18,3,0,0,64,0.0,1
+Restu Maryadi; M.TI.,24,L,Janda,Restaurant manager,Staff,56109,Restoran Dan Penyediaan Makanan Keliling Lainnya,S3,Perusahaan,27000000,30000000,Tidak Padat Penduduk,Sehat,"Gang Bangka Raya No. 258
+Kota Administrasi Jakarta Barat; Kalimantan Tengah 03290",8,4,Dealer,aktif,kurang,14000000,bagus,angkot,3,tanah,3588000000,rendah,A1,0,"Gang Yos Sudarso No. 229
+Bengkulu; Kepulauan Bangka Belitung 58259",3,baik,15197704,2756744,1,0,2,11966950,75,0.07,0
+Janet Safitri,24,L,Janda,Editor; magazine features,Staff,3261,Jasa Sarana Produksi Budidaya Ikan Air Payau,S1,Perusahaan,46000000,19000000,Padat penduduk,Sakit,"Jl. Pacuan Kuda No. 3
+Lhokseumawe; BA 27878",3,2,Environmental education officer,tidak aktif,baik,25000000,terbatas,bus,6,emas,7290000000,tinggi,A1,0,"Jl. Gardujati No. 20
+Sorong; Kalimantan Utara 35514",3,baik,5245377,1146313,1,1,2,8162016,78,0.13,1
+drg. Zizi Purwanti; S.E.,27,P,Duda,Insurance broker,Wakil Direktur Utama,77294,Aktivitas Penyewaan Dan Sewa Guna Usaha Tanpa Hak Opsi Bunga Dan Tanaman Hias,S2,Perusahaan,50000000,7000000,Padat penduduk,Sakit,"Jalan Asia Afrika No. 12
+Kota Administrasi Jakarta Utara; Banten 13309",3,3,Scientist; forensic,aktif,cukup baik,39000000,bagus,sepeda motor,9,mobil,6672000000,menengah,A2,1,"Gang Rajawali Barat No. 7
+Binjai; Sulawesi Tengah 76802",3,baik,11644490,2342860,1,0,1,1309112,87,0.01,1
+Murti Halimah,40,L,Belum Kawin,Theatre manager,Wakil Direktur,50114,Angkutan Laut Dalam Negeri Perintis Untuk Penumpang,SMA/SMK,Personal,12000000,3000000,Padat penduduk,Sakit,"Gang Bangka Raya No. 357
+Medan; PB 28272",6,4,Pensions consultant,aktif,kurang,49000000,menurun,kereta,2,sepeda,9528000000,sangat tinggi,B,0,"Gg. Joyoboyo No. 17
+Tanjungbalai; Sulawesi Selatan 45605",12,baik,15513361,2648761,12,2,0,0,75,0.0,1
+H. Waluyo Widodo; M.TI.,25,P,Cerai Hidup,Make,Kepala Divisi,47245,Perdagangan Eceran Daging Dan Ikan Olahan,S3,Personal,17000000,35000000,Tidak Padat Penduduk,Sakit,"Jalan Peta No. 017
+Samarinda; Kepulauan Bangka Belitung 19497",2,2,Youth worker,aktif,cukup baik,10000000,terbatas,sepeda,4,emas,8381000000,tinggi,A1,2,"Gg. Abdul Muis No. 3
+Pasuruan; Nusa Tenggara Barat 15346",3,baik,8301424,1031829,1,0,2,12388006,73,0.12,0
+Jabal Wibowo,36,P,Duda,Horticultural consultant,Staff,42218,Pembuatan/pengeboran Sumur Air Tanah,S1,Personal,12000000,16000000,Tidak Padat Penduduk,Kurang Sehat,"Jalan Kebonjati No. 3
+Sorong; BB 80767",2,4,Microbiologist,tidak aktif,cukup baik,6000000,bagus,angkot,8,mobil,5706000000,sangat tinggi,A1,0,"Jl. Kebonjati No. 54
+Kota Administrasi Jakarta Timur; Jawa Timur 13717",3,baik,6773093,551925,5,0,1,3289364,84,0.04,1
+Edi Firmansyah,32,P,Duda,Ecologist,Manager,13122,Industri Kain Tenun Ikat,D3,Personal,40000000,20000000,Tidak Padat Penduduk,Sakit,"Jalan Joyoboyo No. 87
+Prabumulih; KI 69342",9,1,Chemical engineer,tidak aktif,cukup baik,35000000,menurun,mobil,3,rumah,8655000000,menengah,A1,0,"Gg. W.R. Supratman No. 594
+Meulaboh; Sulawesi Selatan 41881",3,baik,8958899,801482,6,1,0,0,93,0.0,1
+Cager Prasasta; S.E.I,49,L,Cerai Mati,Aeronautical engineer,Wakil Direktur,47895,Perdagangan Eceran Kaki Lima Dan Los Pasar Pakaian; Alas Kaki; Perlengkapan Pakaian Dan Barang Perlengkapan Pribadi Bekas,S3,Perusahaan,50000000,8000000,Tidak Padat Penduduk,Sakit,"Gang M.T Haryono No. 79
+Bontang; BT 35110",2,2,Pilot; airline,tidak aktif,baik,21000000,menurun,sepeda motor,7,sepeda motor,6101000000,rendah,A1,0,"Jalan Antapani Lama No. 9
+Ternate; DI Yogyakarta 41959",6,baik,9460476,1197557,20,0,0,0,96,0.0,1
+Edison Prasasta,27,P,Cerai Hidup,Sports administrator,Manager,47596,Perdagangan Eceran Barang Pecah Belah Dan Perlengkapan Dapur Bukan Dari Plastik; Batu; Tanah Liat; Kayu; Bambu Atau Rotan,D3,Personal,38000000,46000000,Padat penduduk,Sakit,"Jalan Tubagus Ismail No. 0
+Singkawang; Bengkulu 66641",9,3,Trade mark attorney,aktif,baik,27000000,bermasalah,bus,10,sepeda motor,6114000000,rendah,A1,0,"Gang Peta No. 6
+Bau-Bau; AC 79832",12,baik,12449834,810768,3,0,0,0,89,0.0,1
+Kezia Kuswoyo,49,L,Belum Kawin,Financial controller,Manager,30400,Industri Kendaraan Perang,S1,Personal,12000000,37000000,Tidak Padat Penduduk,Kurang Sehat,"Gg. Rawamangun No. 4
+Banjarmasin; Kalimantan Barat 54842",4,3,Civil Service fast streamer,tidak aktif,cukup baik,26000000,terbatas,mobil,2,tanah,7961000000,sangat tinggi,A1,1,"Jl. Rajawali Timur No. 1
+Tarakan; Kepulauan Bangka Belitung 48559",12,baik,6196263,557586,14,3,3,16748478,95,0.23,1
+Saadat Pratama,35,L,Cerai Hidup,Building services engineer,Staff,72101,Penelitian Dan Pengembangan Ilmu Pengetahuan Alam,S3,Personal,30000000,42000000,Padat penduduk,Sehat,"Jalan Cihampelas No. 1
+Bau-Bau; SU 15354",9,2,Patent attorney,tidak aktif,cukup baik,19000000,bermasalah,sepeda motor,8,sepeda,7345000000,tinggi,A1,2,"Jl. Rajawali Barat No. 07
+Binjai; Kepulauan Bangka Belitung 63203",6,baik,11552512,2059608,3,1,3,7568406,87,0.05,1
+Umay Saragih,50,L,Janda,Forest/woodland manager,Kepala Divisi,84233,Lembaga Peradilan,S1,Personal,6000000,30000000,Padat penduduk,Kurang Sehat,"Gg. Abdul Muis No. 13
+Banjarmasin; JK 92411",3,1,Geochemist,tidak aktif,kurang,25000000,bagus,sepeda,6,rumah,1287000000,sangat tinggi,A1,1,"Gg. Jend. Sudirman No. 0
+Pariaman; LA 50595",3,baik,17176083,1841989,16,0,2,3685304,89,0.02,1
+Tgk. Daru Rahimah; M.TI.,19,L,Cerai Hidup,Dramatherapist,Supervisor,47895,Perdagangan Eceran Kaki Lima Dan Los Pasar Pakaian; Alas Kaki; Perlengkapan Pakaian Dan Barang Perlengkapan Pribadi Bekas,D4,Perusahaan,7000000,17000000,Padat penduduk,Sakit,"Jalan Rajawali Timur No. 653
+Kotamobagu; DI Yogyakarta 60885",3,2,Health service manager,tidak aktif,baik,8000000,bermasalah,sepeda,2,mobil,2527000000,sangat tinggi,A1,2,"Gang Dr. Djunjunan No. 616
+Tarakan; Nusa Tenggara Barat 23307",6,baik,9223080,1173599,0,1,3,11323017,70,0.1,0
+Ir. Gilda Mahendra; S.T.,21,L,Cerai Hidup,Administrator; local government,Wakil Direktur,47722,Perdagangan Eceran Barang Farmasi Di Apotik,S3,Perusahaan,46000000,11000000,Tidak Padat Penduduk,Sakit,"Jl. KH Amin Jasuta No. 61
+Jayapura; JA 23019",6,2,Therapist; nutritional,tidak aktif,kurang,49000000,sedang,sepeda,9,mobil,5343000000,sangat tinggi,A1,1,"Gang Cihampelas No. 39
+Semarang; KS 61246",3,baik,5171476,1328871,0,1,1,1843785,93,0.03,1
+Diah Ardianto,21,L,Janda,Publishing copy,Wakil Direktur Utama,25200,Industri Senjata Dan Amunisi,SMA/SMK,Perusahaan,21000000,35000000,Padat penduduk,Sehat,"Jl. K.H. Wahid Hasyim No. 67
+Banjarmasin; DKI Jakarta 52723",3,2,Child psychotherapist,aktif,baik,16000000,terbatas,angkot,10,tanah,8411000000,rendah,A1,2,"Gang Waringin No. 16
+Tegal; JB 18654",6,baik,6539090,1196305,0,0,1,6364104,78,0.08,1
+Dipa Hasanah,46,L,Kawin,Cabin crew,Staff,13994,Industri Kain Ban,SMA/SMK,Perusahaan,29000000,28000000,Tidak Padat Penduduk,Sakit,"Gg. Sukajadi No. 766
+Kota Administrasi Jakarta Pusat; PB 23810",5,4,Barista,tidak aktif,baik,17000000,menurun,kereta,6,emas,6843000000,tinggi,A1,1,"Gg. Yos Sudarso No. 76
+Banjarmasin; Papua Barat 27717",6,baik,6986710,2051562,15,2,3,5970273,65,0.07,0
+Ida Mayasari,24,L,Kawin,Information systems manager,Karyawan (Employee),47762,Perdagangan Eceran Tanaman Hias; Bibit Buah-buahan Dan Tanaman Obat,D3,Personal,46000000,22000000,Tidak Padat Penduduk,Sehat,"Jl. Ahmad Yani No. 707
+Binjai; GO 79857",1,3,Naval architect,aktif,baik,12000000,bagus,bus,6,saham,3472000000,menengah,A1,1,"Jl. W.R. Supratman No. 00
+Subulussalam; Sulawesi Tengah 06878",6,baik,14334297,2333176,0,2,3,20213718,84,0.12,1
+R.A. Tiara Lailasari,40,P,Duda,Site engineer,Karyawan (Employee),1614,Jasa Penyemprotan Dan Penyerbukan Melalui Udara,D4,Personal,8000000,16000000,Tidak Padat Penduduk,Sakit,"Gang Rumah Sakit No. 27
+Pariaman; JT 64769",10,1,Air cabin crew,tidak aktif,baik,15000000,bagus,kereta,8,sepeda,5416000000,sangat tinggi,A1,0,"Gang Rungkut Industri No. 17
+Jambi; Bali 37209",12,baik,12214514,2557467,7,1,1,3184010,87,0.02,1
+Hj. Almira Maryadi; M.Kom.,30,P,Cerai Hidup,Visual merchandiser,Staff,13913,Industri Bulu Tiruan Rajutan,SMA/SMK,Personal,3000000,6000000,Tidak Padat Penduduk,Kurang Sehat,"Jl. Dr. Djunjunan No. 760
+Payakumbuh; Sumatera Barat 85951",5,4,Psychotherapist; child,tidak aktif,kurang,34000000,terbatas,sepeda,7,mobil,5791000000,menengah,A2,2,"Jl. Rajiman No. 369
+Palu; KB 54561",12,baik,5092150,1475140,3,1,1,2645256,84,0.04,1
+Martaka Ardianto; S.T.,29,P,Kawin,Mudlogger,Direktur,49431,Angkutan Bermotor Untuk Barang Umum,S1,Personal,39000000,46000000,Padat penduduk,Kurang Sehat,"Jalan Pelajar Pejuang No. 499
+Salatiga; Kepulauan Bangka Belitung 57081",10,3,Surveyor; land/geomatics,aktif,baik,25000000,menurun,kereta,9,sepeda motor,4766000000,rendah,A1,2,"Gg. Tubagus Ismail No. 221
+Mataram; DI Yogyakarta 13071",6,baik,14934590,1978185,4,1,2,9389268,84,0.05,1
+Edi Mangunsong,48,L,Belum Kawin,Hospital pharmacist,Karyawan (Employee),64190,Perantara Moneter Lainnya,SMA/SMK,Perusahaan,41000000,18000000,Tidak Padat Penduduk,Sakit,"Gang Abdul Muis No. 668
+Denpasar; SB 89732",8,1,Diplomatic Services operational officer,aktif,baik,39000000,bermasalah,mobil,1,tanah,1009000000,menengah,A1,0,"Jl. Pasirkoja No. 859
+Denpasar; Sumatera Utara 34037",3,baik,11882476,2055736,12,3,3,9354120,60,0.07,0
+KH. Daru Prakasa,30,P,Janda,Television/film/video producer,Manager,43291,Instalasi Mekanikal,D3,Personal,31000000,17000000,Padat penduduk,Kurang Sehat,"Jalan Rawamangun No. 84
+Tegal; NB 23635",7,1,Geochemist,tidak aktif,baik,45000000,bermasalah,mobil,9,tanah,6866000000,sangat tinggi,A1,1,"Gg. Cikutra Timur No. 82
+Singkawang; SS 71675",6,baik,14044784,3927591,3,0,2,7068324,81,0.04,1
+Tgk. Vivi Megantara,22,P,Cerai Mati,Quality manager,Karyawan (Employee),47743,Perdagangan Eceran Barang Perlengkapan Pribadi Bekas,S3,Personal,20000000,2000000,Tidak Padat Penduduk,Sakit,"Gg. Pasir Koja No. 741
+Langsa; SU 16398",5,2,Theatre manager,aktif,baik,11000000,menurun,bus,4,saham,2858000000,menengah,C2,0,"Gang Sukajadi No. 9
+Medan; Jawa Tengah 37384",12,baik,12944855,1139092,0,0,3,10929546,64,0.07,0
+Margana Puspita,24,L,Belum Kawin,Administrator; arts,Supervisor,93124,Klub Tenis Lapangan,S2,Perusahaan,50000000,1000000,Padat penduduk,Kurang Sehat,"Jl. Pelajar Pejuang No. 594
+Ambon; MA 00506",7,2,Research scientist (life sciences),tidak aktif,baik,9000000,terbatas,sepeda,6,sepeda,759000000,tinggi,E,2,"Jalan HOS. Cokroaminoto No. 7
+Palangkaraya; Kepulauan Riau 90438",12,baik,11623919,3300311,0,3,0,0,88,0.0,1
+Zelda Yuniar,40,L,Cerai Mati,Designer; interior/spatial,Kepala Divisi,25991,Industri Brankas; Filling Kantor Dan Sejenisnya,S1,Personal,41000000,26000000,Tidak Padat Penduduk,Sehat,"Gg. Erlangga No. 66
+Kota Administrasi Jakarta Selatan; Kalimantan Utara 42726",6,1,Civil Service fast streamer,aktif,baik,19000000,terbatas,angkot,2,mobil,5742000000,rendah,A1,2,"Jalan Ahmad Yani No. 1
+Kupang; Kalimantan Utara 87164",3,baik,7946831,2280263,7,1,3,5186850,98,0.05,1
+Latika Hariyah,44,P,Kawin,Programmer; applications,Karyawan (Employee),46327,Perdagangan Besar Minyak Dan Lemak Hewani,D4,Personal,5000000,38000000,Tidak Padat Penduduk,Sakit,"Jl. Sukajadi No. 55
+Cilegon; NB 50880",2,4,Chief Strategy Officer,aktif,kurang,1000000,bermasalah,sepeda motor,7,emas,73000000,tinggi,A1,2,"Gg. Pacuan Kuda No. 1
+Depok; MU 67036",6,baik,8429488,2030363,14,2,3,18803814,94,0.19,1
+Raditya Pranowo,39,P,Belum Kawin,Advertising art director,Supervisor,33159,Reparasi Alat Angkutan Lainnya; Bukan Kendaraan Bermotor,SMA/SMK,Perusahaan,7000000,8000000,Padat penduduk,Kurang Sehat,"Gang Wonoayu No. 3
+Banjarmasin; JB 16712",2,4,Psychologist; counselling,tidak aktif,kurang,32000000,sedang,kereta,7,sepeda motor,8200000000,tinggi,A1,0,"Gang Antapani Lama No. 7
+Madiun; Kalimantan Tengah 28936",3,baik,11881343,958501,9,3,3,18203190,99,0.13,1
+Hj. Lili Suwarno,49,P,Duda,Psychologist; clinical,Direktur Utama,3117,Penangkapan Coelenterata Di Laut,D3,Perusahaan,9000000,1000000,Padat penduduk,Sehat,"Jalan Wonoayu No. 83
+Tanjungpinang; SB 98678",3,3,Mudlogger,tidak aktif,baik,42000000,bermasalah,angkot,10,saham,6334000000,menengah,E,1,"Jalan Stasiun Wonokromo No. 840
+Ternate; Jambi 79026",3,baik,9094180,2288436,12,1,2,13716062,74,0.13,0
+Zelaya Puspita,32,P,Kawin,Surveyor; land/geomatics,Karyawan (Employee),46311,Perdagangan Besar Beras,S1,Personal,50000000,50000000,Tidak Padat Penduduk,Sehat,"Gang Dr. Djunjunan No. 89
+Kota Administrasi Jakarta Timur; SG 06505",8,2,Therapist; horticultural,aktif,cukup baik,39000000,bagus,sepeda,8,tanah,7206000000,sangat tinggi,A1,0,"Jalan Ir. H. Djuanda No. 76
+Ambon; Papua Barat 81517",6,baik,13551046,2013159,7,2,1,1165591,97,0.01,1
+H. Teddy Gunarto,54,P,Janda,Engineer; materials,Karyawan (Employee),47844,Perdagangan Eceran Kaki Lima Dan Los Pasar Kosmetik,S1,Personal,21000000,31000000,Padat penduduk,Sehat,"Jl. Pasir Koja No. 39
+Tegal; GO 67485",8,3,Lecturer; further education,aktif,cukup baik,46000000,menurun,bus,3,rumah,2965000000,sangat tinggi,A1,0,"Jl. Tebet Barat Dalam No. 5
+Makassar; DKI Jakarta 24452",6,baik,10331028,2280192,11,0,1,3279743,96,0.03,1
+Hafshah Sirait,19,P,Cerai Hidup,Ranger/warden,Manager,46530,Perdagangan Besar Mesin; Peralatan Dan Perlengkapan Pertanian,SMA/SMK,Personal,39000000,40000000,Tidak Padat Penduduk,Sakit,"Gang Cikapayang No. 0
+Lhokseumawe; BB 51780",3,1,Advertising art director,tidak aktif,kurang,44000000,sedang,bus,3,sepeda,4683000000,sangat tinggi,A1,2,"Gang Gardujati No. 6
+Kota Administrasi Jakarta Selatan; SU 04349",12,baik,5771115,735496,0,0,0,0,65,0.0,1
+Drs. Edison Nababan; S.IP,54,P,Janda,Tourism officer,Direktur Utama,47823,Perdagangan Eceran Kaki Lima Dan Los Pasar Kopi; Gula Pasir; Gula Merah Dan Sejenisnya,S1,Perusahaan,22000000,44000000,Padat penduduk,Kurang Sehat,"Jalan HOS. Cokroaminoto No. 397
+Sungai Penuh; KS 04688",2,1,Educational psychologist,aktif,cukup baik,26000000,bagus,bus,1,uang,8007000000,tinggi,A1,2,"Gang Pelajar Pejuang No. 324
+Bandung; Riau 55141",12,baik,11210024,1722298,20,1,0,0,90,0.0,1
+Vega Budiyanto,39,P,Cerai Mati,Commercial art gallery manager,Manager,47529,Perdagangan Eceran Bahan Dan Barang Konstruksi Lainnya,S3,Perusahaan,25000000,49000000,Padat penduduk,Sakit,"Gang Kapten Muslihat No. 653
+Salatiga; BT 74879",7,4,Insurance claims handler,aktif,kurang,42000000,menurun,angkot,10,emas,2579000000,tinggi,A1,1,"Jalan Soekarno Hatta No. 81
+Samarinda; Kalimantan Selatan 07471",3,baik,16217397,3822477,10,1,2,4681452,71,0.02,0
+Winda Melani,23,P,Cerai Hidup,Designer; jewellery,Wakil Direktur Utama,49422,Angkutan Sewa,S3,Perusahaan,32000000,42000000,Tidak Padat Penduduk,Sehat,"Jalan H.J Maemunah No. 164
+Kota Administrasi Jakarta Pusat; SG 80193",7,2,Surveyor; rural practice,tidak aktif,cukup baik,25000000,terbatas,sepeda motor,10,sepeda motor,4767000000,tinggi,A1,0,"Gang Rawamangun No. 8
+Makassar; YO 97247",12,baik,9727219,619648,0,0,0,0,86,0.0,1
+Rina Yolanda,27,L,Janda,Administrator,Wakil Direktur,47242,Perdagangan Eceran Roti; Kue Kering; Serta Kue Basah Dan Sejenisnya,D4,Perusahaan,34000000,32000000,Padat penduduk,Sakit,"Jalan Ahmad Yani No. 0
+Medan; KS 10163",2,1,Engineer; control and instrumentation,aktif,baik,36000000,menurun,sepeda motor,1,sepeda motor,448000000,tinggi,A1,1,"Gang Setiabudhi No. 7
+Tidore Kepulauan; Gorontalo 54334",6,baik,9937342,1634486,2,0,0,0,76,0.0,1
+Dadi Prayoga,46,L,Janda,Musician,Direktur,41012,Konstruksi Gedung Perkantoran,S1,Perusahaan,38000000,13000000,Padat penduduk,Sehat,"Gg. Kutisari Selatan No. 188
+Cilegon; SU 00863",6,2,Commissioning editor,aktif,cukup baik,17000000,bermasalah,angkot,9,sepeda,4723000000,rendah,A1,2,"Jl. Moch. Ramdan No. 6
+Tangerang; AC 56126",6,baik,11961111,1278232,9,1,0,0,60,0.0,1
+Tgk. Natalia Suartini,45,L,Kawin,IT technical support officer,Direktur,51105,Angkutan Udara Tidak Berjadwal Dalam Negeri Perintis Untuk Penumpang,S1,Personal,45000000,27000000,Tidak Padat Penduduk,Sehat,"Gang Soekarno Hatta No. 7
+Metro; RI 57931",5,2,Travel agency manager,tidak aktif,kurang,42000000,menurun,angkot,10,uang,6711000000,sangat tinggi,A1,0,"Gang Rungkut Industri No. 4
+Banjarbaru; Riau 62754",6,baik,7127723,1505916,17,2,1,4719952,71,0.06,1
+Dr. Prabu Utama; M.Ak,43,P,Janda,Dietitian,Kepala Divisi,10311,Industri Pengasinan/pemanisan Buah-buahan Dan Sayuran,S2,Perusahaan,46000000,33000000,Tidak Padat Penduduk,Sakit,"Jalan Ahmad Dahlan No. 814
+Banjarmasin; Sumatera Barat 96191",7,1,Press photographer,tidak aktif,cukup baik,25000000,bagus,angkot,6,rumah,3046000000,menengah,A1,1,"Gang Sukajadi No. 4
+Jambi; SG 41956",6,baik,13555203,3505967,10,1,1,1488865,86,0.01,1
+Cakrajiya Dongoran,38,L,Janda,Lobbyist,Supervisor,47892,Perdagangan Eceran Kaki Lima Dan Los Pasar Bahan Bakar Minyak; Gas; Minyak Pelumas Dan Bahan Bakar Lainnya,S3,Personal,43000000,34000000,Padat penduduk,Kurang Sehat,"Gang Joyoboyo No. 3
+Solok; BT 26228",1,4,Engineer; site,tidak aktif,baik,7000000,bermasalah,angkot,10,saham,8891000000,tinggi,A1,1,"Gang Tubagus Ismail No. 3
+Padangpanjang; Nusa Tenggara Barat 56171",6,baik,9528976,2848257,9,0,2,2732486,67,0.02,0
+Yulia Maryadi,39,P,Kawin,Rural practice surveyor,Direktur Utama,47741,Perdagangan Eceran Barang Bekas Perlengkapan Rumah Tangga,S2,Personal,32000000,36000000,Padat penduduk,Sakit,"Jalan Sukajadi No. 37
+Blitar; JB 34103",2,4,Health and safety inspector,tidak aktif,cukup baik,28000000,terbatas,sepeda,9,rumah,4305000000,rendah,A1,1,"Gg. Cikutra Barat No. 6
+Kupang; DI Yogyakarta 29876",6,baik,8512373,498487,12,2,3,13671111,71,0.13,0
+Dr. Icha Mulyani; S.Sos,26,P,Janda,Ranger/warden,Direktur Utama,98200,Aktivitas Yang Menghasilkan Jasa Oleh Rumah Tangga Yang Digunakan Untuk Memenuhi Kebutuhan Sendiri,D3,Perusahaan,16000000,25000000,Padat penduduk,Kurang Sehat,"Gang Jamika No. 072
+Kupang; GO 05255",6,2,Visual merchandiser,aktif,cukup baik,43000000,bagus,sepeda motor,3,emas,7947000000,sangat tinggi,A1,1,"Jl. Cikutra Barat No. 4
+Samarinda; Nusa Tenggara Barat 25025",3,baik,14828061,1672423,1,0,0,0,86,0.0,1
+Prayitna Hutagalung,47,L,Belum Kawin,Engineer; materials,Manager,61100,Aktivitas Telekomunikasi Dengan Kabel,D3,Personal,20000000,44000000,Tidak Padat Penduduk,Sehat,"Jalan Cikutra Barat No. 229
+Sorong; Maluku Utara 03763",3,1,Sport and exercise psychologist,aktif,cukup baik,5000000,menurun,bus,2,uang,8120000000,tinggi,A1,1,"Gg. Dipenogoro No. 80
+Pangkalpinang; SG 05495",6,baik,10116435,865813,8,3,2,2265752,69,0.02,0
+Ulva Sihombing; M.M.,41,P,Kawin,Geographical information systems officer,Direktur Utama,19213,Industri Pengolahan Kembali Minyak Pelumas Bekas,S3,Perusahaan,40000000,41000000,Padat penduduk,Kurang Sehat,"Jl. PHH. Mustofa No. 7
+Serang; GO 63631",4,3,Food technologist,tidak aktif,cukup baik,23000000,menurun,angkot,3,sepeda motor,4252000000,menengah,A1,0,"Gang Siliwangi No. 49
+Blitar; MU 42042",6,baik,9963453,1185198,12,3,0,0,60,0.0,1
+Pandu Sirait,26,P,Kawin,Land/geomatics surveyor,Karyawan (Employee),1614,Jasa Penyemprotan Dan Penyerbukan Melalui Udara,D4,Perusahaan,45000000,13000000,Padat penduduk,Sakit,"Jalan Stasiun Wonokromo No. 881
+Blitar; KI 63307",1,1,Magazine features editor,aktif,baik,16000000,menurun,sepeda,9,sepeda,4230000000,tinggi,A1,2,"Gg. Setiabudhi No. 9
+Tegal; NB 58577",12,baik,4554474,746377,1,1,1,2055429,84,0.04,1
+Dadi Pranowo,46,L,Belum Kawin,Personal assistant,Supervisor,1491,Pembibitan Dan Budidaya Burung Unta,D3,Personal,14000000,5000000,Padat penduduk,Kurang Sehat,"Gg. Pasirkoja No. 3
+Medan; Maluku Utara 52510",9,2,Pathologist,aktif,kurang,13000000,terbatas,kereta,5,saham,207000000,tinggi,B,0,"Jalan Cihampelas No. 100
+Surakarta; KI 27930",3,baik,9560117,2650991,19,1,2,12475602,95,0.11,1
+Zizi Siregar,44,P,Cerai Hidup,Engineer; chemical,Wakil Direktur Utama,10219,Industri Pengolahan Dan Pengawetan Lainnya Untuk Ikan,D3,Perusahaan,48000000,6000000,Tidak Padat Penduduk,Sakit,"Jalan Cihampelas No. 517
+Banjarbaru; SG 19771",1,2,Pharmacologist,tidak aktif,kurang,47000000,menurun,bus,8,tanah,5322000000,tinggi,A2,1,"Gang Waringin No. 0
+Banjarbaru; BT 80779",6,baik,13090635,3203803,18,0,1,4339556,75,0.03,1
+Bancar Tampubolon; M.M.,39,P,Duda,Lighting technician; broadcasting/film/video,Direktur Utama,46331,Perdagangan Besar Gula; Coklat Dan Kembang Gula,S2,Perusahaan,7000000,9000000,Tidak Padat Penduduk,Sakit,"Gang Waringin No. 57
+Subulussalam; Sumatera Selatan 51309",4,4,Geologist; engineering,aktif,baik,16000000,terbatas,mobil,5,uang,7942000000,sangat tinggi,A1,1,"Jl. BKR No. 91
+Mojokerto; Jawa Barat 89854",12,baik,4450271,745254,8,0,3,8758635,86,0.16,1
+Anastasia Simanjuntak,30,P,Cerai Mati,Commercial/residential surveyor,Manager,69104,Aktivitas Notaris Dan Pejabat Pembuat Akta Tanah,D3,Personal,13000000,36000000,Padat penduduk,Sakit,"Gg. Antapani Lama No. 057
+Tebingtinggi; ST 38537",1,1,Pilot; airline,tidak aktif,kurang,31000000,sedang,kereta,5,rumah,1670000000,tinggi,A1,2,"Gang Wonoayu No. 223
+Lubuklinggau; JB 44731",12,baik,8220834,1835623,2,0,3,16998876,77,0.17,1
+Ivan Halimah,45,P,Kawin,Computer games developer,Manager,60102,Penyiaran Radio Oleh Swasta,S1,Perusahaan,33000000,41000000,Padat penduduk,Sehat,"Jl. Wonoayu No. 45
+Kota Administrasi Jakarta Barat; KU 27170",5,4,Occupational hygienist,aktif,kurang,46000000,terbatas,sepeda,8,emas,4835000000,menengah,A1,2,"Jl. Jamika No. 5
+Banjarmasin; AC 49430",3,baik,11931661,1240891,15,2,1,3601684,80,0.03,1
+Winda Winarsih,27,L,Cerai Hidup,Phytotherapist,Direktur,33132,Reparasi Peralatan Irradiasi; Elektromedis Dan Elektrotherapi,SMA/SMK,Personal,10000000,35000000,Tidak Padat Penduduk,Kurang Sehat,"Gg. Cempaka No. 138
+Tegal; NB 27096",9,1,Radio broadcast assistant,tidak aktif,baik,4000000,menurun,sepeda,10,emas,8782000000,rendah,A1,0,"Gg. Lembong No. 8
+Mojokerto; Kalimantan Barat 90044",3,baik,6765209,1744945,3,0,2,3876744,90,0.05,1
+Edi Pertiwi,41,L,Janda,Chemical engineer,Wakil Direktur Utama,50229,Angkutan Penyeberangan Lainnya Untuk Barang Termasuk Penyeberangan Antarnegara,D3,Personal,33000000,6000000,Tidak Padat Penduduk,Sehat,"Gang Sukabumi No. 371
+Kota Administrasi Jakarta Pusat; Nusa Tenggara Barat 36718",3,4,Veterinary surgeon,aktif,kurang,16000000,bagus,angkot,7,sepeda,1729000000,sangat tinggi,A2,1,"Jalan Gedebage Selatan No. 23
+Kota Administrasi Jakarta Utara; Sulawesi Barat 11200",12,baik,9518130,2772519,16,1,2,5204310,99,0.05,1
+Galar Hardiansyah,33,P,Cerai Mati,Surveyor; minerals,Staff,47412,Perdagangan Eceran Peralatan Video Game Dan Sejenisnya,D3,Personal,49000000,41000000,Tidak Padat Penduduk,Sehat,"Gg. Veteran No. 62
+Palangkaraya; BT 65537",3,4,Network engineer,tidak aktif,baik,12000000,sedang,sepeda motor,8,saham,8480000000,rendah,A1,2,"Jalan Dr. Djunjunan No. 66
+Palembang; KU 41689",6,baik,5138722,435597,5,0,3,6568272,99,0.11,1
+dr. Prima Anggraini,50,L,Janda,Horticulturist; amenity,Karyawan (Employee),52230,Aktivitas Kebandarudaraan,D3,Perusahaan,10000000,3000000,Padat penduduk,Sehat,"Gg. Cikapayang No. 55
+Sungai Penuh; KB 97226",5,2,Education officer; museum,aktif,cukup baik,34000000,bermasalah,bus,8,emas,8037000000,rendah,B,0,"Jl. Cikutra Barat No. 7
+Padang; NT 58473",3,baik,14118998,4036217,14,0,3,17284260,77,0.1,1
+Ir. Eja Dabukke; M.Ak,48,P,Cerai Mati,Secondary school teacher,Karyawan (Employee),30921,Industri Sepeda Dan Kursi Roda Termasuk Becak,S3,Perusahaan,15000000,44000000,Tidak Padat Penduduk,Kurang Sehat,"Gg. Ahmad Dahlan No. 638
+Bitung; NT 91790",9,4,Technical author,aktif,kurang,43000000,bermasalah,angkot,1,rumah,4690000000,menengah,A1,1,"Jalan Jend. Sudirman No. 837
+Banda Aceh; DKI Jakarta 82303",12,baik,7286332,770527,18,1,2,8724780,67,0.1,0
+drg. Patricia Yulianti,27,P,Kawin,Ranger/warden,Wakil Direktur,32902,Industri Pita Mesin Tulis/gambar,D3,Personal,11000000,6000000,Tidak Padat Penduduk,Sakit,"Gang Kiaracondong No. 19
+Banda Aceh; SG 70575",5,1,Magazine features editor,aktif,kurang,24000000,bermasalah,sepeda,2,saham,3065000000,tinggi,A2,2,"Gang Cempaka No. 4
+Palembang; ST 69854",3,baik,7914428,1170307,1,1,1,5460022,89,0.06,1
+Jasmani Laksmiwati,19,L,Janda,Administrator; local government,Kepala Divisi,15111,Industri Pengawetan Kulit,S2,Perusahaan,46000000,32000000,Tidak Padat Penduduk,Sehat,"Jalan Peta No. 799
+Bontang; JB 14567",4,3,Dancer,tidak aktif,baik,29000000,sedang,bus,2,uang,6428000000,sangat tinggi,A1,0,"Gang K.H. Wahid Hasyim No. 344
+Medan; Lampung 69716",12,baik,8119503,654526,0,0,0,0,85,0.0,1
+Hj. Calista Pertiwi; M.Farm,33,L,Duda,Magazine features editor,Wakil Direktur Utama,10629,Industri Pati Lainnya,SMA/SMK,Personal,18000000,33000000,Tidak Padat Penduduk,Sehat,"Gang Pasirkoja No. 25
+Cilegon; NB 41315",3,2,Journalist; broadcasting,tidak aktif,cukup baik,4000000,menurun,angkot,2,rumah,4457000000,rendah,A1,0,"Gang Ahmad Dahlan No. 2
+Pariaman; Lampung 35982",12,baik,8374326,503311,4,1,1,2475781,77,0.02,1
+Ratna Tamba,35,L,Belum Kawin,Brewing technologist,Karyawan (Employee),84132,Kegiatan Lembaga Pemerintahan Bidang Pertambangan Dan Penggalian; Listrik; Air Dan Gas,SMA/SMK,Personal,34000000,28000000,Padat penduduk,Sakit,"Jalan Kutisari Selatan No. 303
+Singkawang; Bali 75717",3,1,Primary school teacher,tidak aktif,kurang,48000000,bermasalah,sepeda,7,mobil,7329000000,tinggi,A1,1,"Gg. Stasiun Wonokromo No. 39
+Lubuklinggau; Kepulauan Riau 55705",3,baik,9029686,705739,6,3,0,0,89,0.0,1
+Lidya Saefullah,36,P,Cerai Hidup,Print production planner,Wakil Direktur,63111,Aktivitas Pengolahan Data,S3,Personal,23000000,20000000,Padat penduduk,Kurang Sehat,"Jl. Moch. Ramdan No. 640
+Tangerang; PA 57995",10,1,Ceramics designer,tidak aktif,kurang,44000000,menurun,sepeda,3,saham,5887000000,rendah,A1,0,"Jalan Cihampelas No. 6
+Solok; YO 38940",12,baik,7425620,1634993,8,1,1,6801769,84,0.08,1
+Cornelia Wijaya; M.M.,43,P,Duda,Financial risk analyst,Manager,10213,Industri Pembekuan Ikan,S1,Personal,50000000,38000000,Padat penduduk,Sehat,"Jl. Abdul Muis No. 8
+Bontang; Jawa Timur 17390",10,3,Charity officer,tidak aktif,cukup baik,27000000,bermasalah,sepeda motor,6,mobil,5329000000,menengah,A1,0,"Gang H.J Maemunah No. 7
+Singkawang; Papua Barat 95026",3,baik,10472138,1852728,6,1,1,4453554,96,0.04,1
+Kanda Firmansyah,30,L,Belum Kawin,Personal assistant,Direktur,47879,Perdagangan Eceran Kaki Lima Dan Los Pasar Campuran Kertas; Karton; Barang Dari Kertas; Alat Tulis-menulis; Alat Gambar; Hasil Pencetakan; Penerbitan Dan Lainnya,S1,Personal,43000000,15000000,Tidak Padat Penduduk,Sakit,"Gang Dipatiukur No. 7
+Batam; Jawa Barat 07556",6,1,Scientist; water quality,tidak aktif,cukup baik,7000000,sedang,sepeda,1,sepeda motor,5476000000,menengah,A1,2,"Jalan Bangka Raya No. 786
+Palembang; Lampung 80043",6,baik,5884393,1660627,5,2,0,0,71,0.0,1
+Kamaria Hassanah,37,P,Janda,Sports development officer,Staff,28140,Industri Bearing; Roda Gigi Dan Elemen Penggerak Mesin,S3,Personal,16000000,45000000,Tidak Padat Penduduk,Sakit,"Jl. Sukajadi No. 9
+Surabaya; AC 33387",2,4,Accountant; chartered,aktif,cukup baik,35000000,terbatas,angkot,9,tanah,1857000000,sangat tinggi,A1,0,"Jl. Kebonjati No. 509
+Metro; RI 62114",3,baik,5848846,1125544,7,1,1,5877501,80,0.08,1
+Lasmanto Agustina,32,P,Janda,Furniture designer,Supervisor,64127,Bank Perkreditan Rakyat (bpr),SMA/SMK,Personal,41000000,50000000,Tidak Padat Penduduk,Sakit,"Gg. Kendalsari No. 0
+Manado; BB 44898",3,2,Rural practice surveyor,aktif,baik,4000000,terbatas,sepeda,2,sepeda,7207000000,rendah,A1,1,"Gang Siliwangi No. 48
+Kota Administrasi Jakarta Timur; BA 74492",12,baik,8092679,566158,7,0,0,0,71,0.0,1
+Cagak Adriansyah,24,P,Duda,Television production assistant,Direktur Utama,33112,Reparasi Produk Senjata Dan Amunisi,S1,Perusahaan,23000000,19000000,Tidak Padat Penduduk,Kurang Sehat,"Jl. Tubagus Ismail No. 62
+Madiun; KS 53060",6,3,Lobbyist,aktif,cukup baik,47000000,bermasalah,sepeda motor,1,rumah,7572000000,rendah,A1,1,"Jalan M.T Haryono No. 476
+Bukittinggi; Sulawesi Utara 21366",6,baik,10096573,1445713,1,1,3,4805223,64,0.04,0
+Suci Tampubolon; S.IP,39,P,Cerai Mati,Horticultural consultant,Wakil Direktur,84125,Administrasi Pelayanan Pemerintah Bidang Keagamaan,S2,Perusahaan,32000000,3000000,Tidak Padat Penduduk,Sehat,"Jl. Kapten Muslihat No. 9
+Bengkulu; PB 07163",4,1,Chief of Staff,aktif,kurang,21000000,bagus,kereta,2,saham,2028000000,rendah,B,2,"Gg. HOS. Cokroaminoto No. 9
+Magelang; Jawa Tengah 11242",6,baik,11964693,914373,12,0,2,4549794,74,0.03,0
+Baktiadi Winarno,45,L,Cerai Mati,Insurance risk surveyor,Karyawan (Employee),41019,Konstruksi Gedung Lainnya,S2,Perusahaan,45000000,26000000,Tidak Padat Penduduk,Kurang Sehat,"Jl. Lembong No. 1
+Semarang; JK 20831",1,1,Personal assistant,aktif,kurang,36000000,bermasalah,angkot,1,uang,162000000,tinggi,A1,1,"Gg. Jend. Sudirman No. 8
+Batu; KU 08546",12,baik,6555949,1748018,8,1,1,3916585,89,0.05,1
+Tgk. Maria Permata; M.Ak,21,P,Belum Kawin,Engineer; site,Staff,47420,Perdagangan Eceran Khusus Peralatan Audio Dan Video Di Toko,D4,Perusahaan,6000000,19000000,Padat penduduk,Sakit,"Gang Otto Iskandardinata No. 7
+Cimahi; Papua 85842",1,3,Aeronautical engineer,aktif,baik,40000000,sedang,bus,3,sepeda motor,9067000000,sangat tinggi,A1,0,"Jl. Jamika No. 77
+Sungai Penuh; GO 65301",6,baik,13397746,1792070,0,3,0,0,95,0.0,1
+Latif Yulianti,50,P,Cerai Mati,Probation officer,Karyawan (Employee),10414,Industri Minyak Ikan,D4,Personal,1000000,18000000,Tidak Padat Penduduk,Sehat,"Gg. Ronggowarsito No. 952
+Tanjungpinang; SR 95340",1,3,Scientist; research (life sciences),tidak aktif,cukup baik,46000000,menurun,mobil,7,tanah,7708000000,tinggi,A1,0,"Jl. BKR No. 091
+Kota Administrasi Jakarta Barat; Maluku 29646",12,0.46,4318640,1048513,16,1,2,6908030,85,0.13,1
+Jail Hassanah,31,P,Belum Kawin,Database administrator,Wakil Direktur Utama,86901,Aktivitas Pelayanan Kesehatan Yang Dilakukan Oleh Paramedis,S2,Personal,31000000,15000000,Tidak Padat Penduduk,Sehat,"Gang Soekarno Hatta No. 29
+Bekasi; MU 40222",9,1,Psychologist; educational,aktif,kurang,39000000,terbatas,sepeda motor,10,sepeda motor,1378000000,rendah,A1,0,"Jalan PHH. Mustofa No. 379
+Salatiga; KR 15869",6,baik,11439175,658708,6,3,2,4080100,88,0.03,1
+Tgk. Edi Simanjuntak,39,P,Duda,Sales executive,Wakil Direktur Utama,43292,Instalasi Meteorologi; Klimatologi Dan Geofisika,S2,Personal,6000000,16000000,Tidak Padat Penduduk,Sakit,"Jalan Soekarno Hatta No. 48
+Cirebon; DKI Jakarta 82101",9,4,Advertising account planner,tidak aktif,cukup baik,45000000,menurun,sepeda,7,mobil,7493000000,sangat tinggi,A1,0,"Jl. Wonoayu No. 2
+Payakumbuh; Jawa Barat 16996",12,baik,8684496,882192,13,1,2,11634974,62,0.11,0
+Yuni Rahmawati,20,L,Janda,Historic buildings inspector/conservation officer,Direktur Utama,1611,Jasa Pengolahan Lahan,S2,Personal,20000000,42000000,Tidak Padat Penduduk,Kurang Sehat,"Jl. PHH. Mustofa No. 388
+Bau-Bau; KB 19995",2,4,Technical author,tidak aktif,cukup baik,31000000,sedang,angkot,4,sepeda,2952000000,rendah,A1,2,"Jl. M.H Thamrin No. 37
+Kotamobagu; Kalimantan Utara 03249",6,baik,8304358,2016078,0,1,3,3561807,68,0.04,0
+Talia Hidayat,19,P,Kawin,Art gallery manager,Manager,47745,Perdagangan Eceran Bahan Konstruksi Dan Sanitasi Bekas,S3,Personal,17000000,31000000,Tidak Padat Penduduk,Sakit,"Gang Astana Anyar No. 68
+Palopo; Jambi 75492",7,1,Contracting civil engineer,tidak aktif,cukup baik,11000000,menurun,bus,2,saham,9321000000,rendah,A1,2,"Gang HOS. Cokroaminoto No. 73
+Banjarbaru; SB 72651",3,baik,19996827,4018854,0,2,2,10175006,95,0.04,1
+Anom Safitri,27,P,Kawin,Librarian; academic,Wakil Direktur Utama,50227,Angkutan Penyeberangan Perintis Antarkabupaten/kota Untuk Barang,S3,Perusahaan,41000000,18000000,Tidak Padat Penduduk,Sehat,"Jl. Gedebage Selatan No. 96
+Sibolga; BT 68124",3,1,International aid/development worker,aktif,baik,21000000,sedang,angkot,2,emas,7745000000,tinggi,A1,0,"Jl. Rajiman No. 336
+Payakumbuh; MU 28324",6,baik,14929030,3129966,4,1,0,0,94,0.0,1
+Gilda Tampubolon,21,L,Kawin,Barista,Direktur Utama,46312,Perdagangan Besar Buah-buahan,D3,Perusahaan,17000000,28000000,Tidak Padat Penduduk,Sehat,"Gg. Kebonjati No. 860
+Bau-Bau; DKI Jakarta 67535",5,3,Occupational psychologist,tidak aktif,kurang,49000000,bagus,kereta,4,rumah,7913000000,rendah,A1,1,"Jl. Pasirkoja No. 5
+Tual; Nusa Tenggara Barat 05769",3,baik,8246732,1111739,0,3,0,0,77,0.0,1
+Darijan Puspasari,42,P,Janda,Art therapist,Kepala Divisi,38212,Produksi Kompos Sampah Organik,D4,Perusahaan,30000000,33000000,Padat penduduk,Sakit,"Gang Sukabumi No. 6
+Bandar Lampung; Sulawesi Tengah 38423",6,3,Mining engineer,aktif,kurang,33000000,menurun,sepeda motor,2,rumah,448000000,tinggi,A1,1,"Jl. Wonoayu No. 361
+Pangkalpinang; ST 28185",3,baik,13798008,1540820,7,0,1,4533328,82,0.03,1
+Ophelia Lailasari,20,P,Cerai Hidup,Special educational needs teacher,Staff,1269,Perkebunan Buah Oleaginous Lainnya,D3,Personal,31000000,26000000,Tidak Padat Penduduk,Sehat,"Gang Merdeka No. 78
+Ambon; Sulawesi Selatan 89845",8,2,Haematologist,aktif,cukup baik,35000000,sedang,kereta,4,mobil,7672000000,menengah,A1,2,"Jl. Sukajadi No. 9
+Banjarmasin; Sulawesi Utara 79710",3,baik,4054853,1196446,0,0,1,4865087,98,0.1,1
+Narji Maryati,26,L,Janda,Teacher; English as a foreign language,Kepala Divisi,10710,Industri Produk Roti Dan Kue,S2,Perusahaan,6000000,40000000,Tidak Padat Penduduk,Sakit,"Jl. Bangka Raya No. 26
+Padangpanjang; KU 71665",4,4,Games developer,tidak aktif,kurang,24000000,menurun,mobil,9,uang,4277000000,menengah,A1,1,"Jl. BKR No. 181
+Banjarbaru; Kalimantan Selatan 35466",3,baik,14151507,4149323,1,1,2,10526978,74,0.06,0
+KH. Galar Mandasari; S.Pt,41,L,Janda,Solicitor; Scotland,Supervisor,69202,Aktivitas Konsultasi Pajak,S1,Perusahaan,3000000,30000000,Padat penduduk,Sakit,"Gg. Tubagus Ismail No. 42
+Tual; Bali 70498",1,1,Accountant; chartered public finance,tidak aktif,kurang,43000000,bagus,mobil,9,tanah,653000000,rendah,A1,2,"Gg. Indragiri No. 629
+Tangerang Selatan; Jawa Tengah 22398",6,baik,9300305,1769558,12,1,2,2039226,69,0.02,0
+Lala Hastuti; M.Pd,27,P,Belum Kawin,Research scientist (medical),Kepala Divisi,17021,Industri Kertas Dan Papan Kertas Bergelombang,S2,Perusahaan,49000000,31000000,Tidak Padat Penduduk,Kurang Sehat,"Jl. Yos Sudarso No. 530
+Prabumulih; DI Yogyakarta 81464",8,1,Television floor manager,tidak aktif,baik,17000000,bermasalah,angkot,7,uang,5555000000,tinggi,A1,1,"Jalan Antapani Lama No. 91
+Yogyakarta; DI Yogyakarta 73406",6,baik,13671259,2929525,1,3,1,5787197,60,0.04,1
+drg. Jinawi Padmasari; S.IP,49,L,Duda,Ship broker,Karyawan (Employee),62012,Aktivitas Pengembangan Aplikasi Perdagangan Melalui Internet (e-commerce),S2,Personal,9000000,30000000,Tidak Padat Penduduk,Kurang Sehat,"Jalan Rungkut Industri No. 54
+Mataram; Aceh 81381",9,3,Web designer,tidak aktif,baik,44000000,terbatas,mobil,7,sepeda motor,6420000000,rendah,A1,1,"Gg. Tebet Barat Dalam No. 94
+Payakumbuh; JI 67185",6,baik,8256772,1597580,8,1,2,4103954,75,0.04,0
+Panca Mardhiyah,45,P,Janda,Surveyor; planning and development,Staff,22291,Industri Barang Plastik Lembaran,D4,Perusahaan,32000000,19000000,Padat penduduk,Kurang Sehat,"Gg. Gegerkalong Hilir No. 9
+Manado; Sumatera Utara 58507",3,1,Land,aktif,kurang,26000000,bermasalah,mobil,9,mobil,6583000000,sangat tinggi,A1,0,"Jalan Merdeka No. 07
+Mataram; Kalimantan Tengah 08299",6,baik,6506531,462444,12,0,2,8153398,91,0.1,1
+Kenes Sitompul,31,L,Kawin,Art therapist,Wakil Direktur,1160,Pertanian Tanaman Berserat,S3,Perusahaan,50000000,6000000,Padat penduduk,Sehat,"Gang Lembong No. 21
+Bontang; Nusa Tenggara Barat 76802",7,4,Public affairs consultant,tidak aktif,cukup baik,29000000,terbatas,mobil,10,sepeda,8763000000,rendah,A2,2,"Gang PHH. Mustofa No. 0
+Payakumbuh; SR 48695",6,baik,10733393,1189410,6,1,1,1409671,76,0.01,1
+R.A. Padmi Laksmiwati,43,L,Kawin,Commercial art gallery manager,Staff,52293,Aktivitas Ekspedisi Muatan Kapal (emkl),S3,Perusahaan,26000000,25000000,Tidak Padat Penduduk,Sehat,"Jalan HOS. Cokroaminoto No. 616
+Batam; Bali 63231",2,3,Graphic designer,aktif,kurang,37000000,menurun,kereta,10,sepeda,6928000000,tinggi,A1,2,"Gang Waringin No. 16
+Surabaya; SU 87215",12,baik,15638328,1069103,8,3,1,6988809,80,0.04,1
+Ir. Galih Astuti; S.Kom,19,P,Cerai Mati,Commercial art gallery manager,Kepala Divisi,10762,Industri Pengolahan Herbal (herb Infusion),S3,Personal,37000000,9000000,Padat penduduk,Kurang Sehat,"Gang Rajawali Timur No. 218
+Manado; Kalimantan Selatan 06772",7,1,Doctor; hospital,tidak aktif,baik,49000000,menurun,angkot,3,emas,9901000000,menengah,A1,0,"Gg. Jakarta No. 11
+Solok; Sulawesi Selatan 47935",12,baik,16357347,3015640,0,1,1,3357390,78,0.02,1
+Eka Prasetya,28,L,Cerai Mati,Newspaper journalist,Karyawan (Employee),84126,Administrasi Pelayanan Pemerintah Bidang Kebudayaan/kesenian/rekreasi/olahraga,S2,Perusahaan,15000000,34000000,Tidak Padat Penduduk,Kurang Sehat,"Jl. Ahmad Dahlan No. 4
+Kediri; KR 43693",7,1,Geochemist,aktif,cukup baik,26000000,terbatas,angkot,8,emas,5031000000,sangat tinggi,A1,1,"Gang Rajiman No. 043
+Semarang; KR 35833",6,baik,14815355,2968147,4,0,1,4344246,79,0.02,1
+Xanana Rajata,19,L,Duda,Theatre stage manager,Karyawan (Employee),61911,Jasa Panggilan Premium (premium Call),S1,Personal,6000000,15000000,Padat penduduk,Kurang Sehat,"Jl. Lembong No. 6
+Palangkaraya; Sumatera Barat 54583",2,3,Magazine journalist,aktif,cukup baik,20000000,sedang,sepeda motor,7,emas,2412000000,menengah,A1,1,"Gg. Otto Iskandardinata No. 06
+Bau-Bau; Lampung 50471",3,baik,17523552,5028361,0,1,2,11799730,77,0.06,1
+Wahyu Latupono,29,P,Cerai Mati,Records manager,Supervisor,49421,Angkutan Taksi,S1,Personal,46000000,28000000,Tidak Padat Penduduk,Sehat,"Gg. HOS. Cokroaminoto No. 6
+Solok; AC 69751",3,1,Geneticist; molecular,aktif,kurang,5000000,bagus,angkot,2,saham,2601000000,sangat tinggi,A1,2,"Jl. Stasiun Wonokromo No. 4
+Balikpapan; Bali 51930",3,baik,19850898,4252791,4,1,0,0,94,0.0,1
+Jais Sihombing,36,P,Janda,Building surveyor,Karyawan (Employee),56290,Penyediaan Makanan Lainnya,SMA/SMK,Perusahaan,4000000,14000000,Tidak Padat Penduduk,Kurang Sehat,"Gg. Setiabudhi No. 052
+Banjar; MA 52941",1,1,Journalist; newspaper,tidak aktif,cukup baik,50000000,sedang,mobil,2,saham,3831000000,menengah,A1,1,"Gang Erlangga No. 551
+Sukabumi; Riau 44490",12,baik,14772966,1149961,9,0,0,0,66,0.0,1
